@@ -1,0 +1,4 @@
+*.pyc
+Scripts/
+Lib/
+Include/
